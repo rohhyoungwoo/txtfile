@@ -184,7 +184,3 @@ public class Task4 {
 	}
 
 }
-=======
-3번, 4번은 아직 못 풀었습니다..
->>>>>>> 613c2d4b91e6da9ac4d3d42b1e80a76a11859b22
->>>>>>> c04f1c4ec72df2b3e58e0aaf00aca8fec4a4cf19
