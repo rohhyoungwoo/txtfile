@@ -88,6 +88,13 @@ public class Task2 {
 
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+3번, 4번은 아직 못 풀었습니다..
+=======
+<<<<<<< HEAD
+>>>>>>> 2a769761aa77e66aa34d6cf7bc273ca405c24eb5
 package task;
 
 import java.util.Scanner;
